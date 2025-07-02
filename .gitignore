@@ -1,0 +1,42 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Auto-generated VS/JetBrains/Unity files
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Build results
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+
+# Rider
+*.sln.iml
